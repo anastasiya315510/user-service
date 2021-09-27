@@ -1,0 +1,3 @@
+spring.data.mongodb.uri: mongodb+srv://root:anna-2005@cluster0.hpr8i.mongodb.net/userTestDB?retryWrites=true&w=majority
+server:
+  port: 8081
